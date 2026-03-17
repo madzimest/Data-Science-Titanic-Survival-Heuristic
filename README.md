@@ -10,10 +10,8 @@ This project implements heuristic‑based rules to predict survival of passenger
 - [Dataset](#dataset)
 - [Heuristics](#heuristics)
 - [Results](#results)
-- [Installation & Usage](#installation--usage)
-- [Project Structure](#project-structure)
-- [Future Work](#future-work)
-- [License](#license)
+- [Installation](#installation)
+- 
 
 ## Overview
 The sinking of the Titanic is one of the most infamous shipwrecks in history. In this project, we explore passenger data and design simple decision rules (heuristics) to predict who survived. The goal is to achieve high accuracy using only a few interpretable features.
